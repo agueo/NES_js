@@ -1,0 +1,14 @@
+{
+  "name": "nes_emulator",
+  "version": "1.0.0",
+  "description": "NES emulator written in Javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "alopezhe",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
